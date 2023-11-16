@@ -1,0 +1,56 @@
+body {
+    background-color: #eee;
+   }
+
+   header {
+    background-color: #b66060;
+    color: #fff;
+    text-align: center;
+    padding: 15px 20px;
+   }
+
+   #titulo {
+    margin: 0px 0px 15px 0px;
+   }
+
+   #menuPrincipal {
+    background-color: #dfadad;
+   }
+
+   nav ul {
+    list-style: none;
+    padding: 0px;
+   }
+
+   #menuPrincipal ul li {
+    display: inline;
+    margin: 0px 15px;
+   }
+
+   .enlaceMenuPrincipal {
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 20px;
+   }
+
+   .tituloSeleccion {
+    background-color: #c48c8c;
+    color: #fff;
+    padding: 10px;
+   }
+
+   article {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 10px;
+   }
+
+   footer {
+    background-color: #cfa0a0;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+   }
+   
